@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "979903405711",
+    "project_id": "fir-anoteapp",
+    "storage_bucket": "fir-anoteapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979903405711:android:ee9eb6c9931f1846a99afa",
+        "android_client_info": {
+          "package_name": "at.com.firebasenoteapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA-u7pET0h3tpSkbYbwWrqdVSk2YKehgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
